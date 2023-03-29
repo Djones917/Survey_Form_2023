@@ -3,3 +3,12 @@
 :root {
     --primary-color: #0bb1ed;
 }
+
+body {
+    background-color: var(--primary-color);
+    font-family: 'Alkatra', cursive, sans-serif;
+}
+
+h1 {
+  font-size: 18px;  
+}}
