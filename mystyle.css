@@ -9,6 +9,18 @@ body {
     font-family: 'Alkatra', cursive, sans-serif;
 }
 
+main {
+  background-color: aliceblue;
+  border: 2px solid black;
+  border-radius: 10px;
+}
+
 h1 {
-  font-size: 18px;  
-}}
+  text-align: center;
+  font-size: 48px;  
+}
+
+p {
+  font-size: 24px;
+}
+
