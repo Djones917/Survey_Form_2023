@@ -40,3 +40,8 @@ input[type=number] {
 #dropdown {
   display: block;
 }
+
+#gender {
+  text-align: left;
+  font-size: 16px;
+}
