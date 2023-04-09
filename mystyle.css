@@ -10,6 +10,10 @@ body {
 }
 
 main {
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 20px;
+  width: 1200px;
   background-color: aliceblue;
   border: 2px solid black;
   border-radius: 10px;
@@ -42,6 +46,7 @@ input[type=number] {
 }
 
 #gender {
+  margin-bottom: 0%;
   text-align: left;
   font-size: 16px;
 }
