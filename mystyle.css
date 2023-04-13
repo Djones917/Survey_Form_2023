@@ -37,6 +37,7 @@ input[type=email] {
   display: block;
 }
 
+/* drop down for age */
 input[type=number] {
   display: block;
 }
@@ -44,6 +45,14 @@ input[type=number] {
 #dropdown {
   display: block;
 }
+
+/* radio */
+input[type=radio] {
+  display: inline-block;
+}
+
+
+
 
 #gender {
   margin-bottom: 0%;
