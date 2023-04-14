@@ -37,6 +37,7 @@ input[type=email] {
   display: block;
 }
 
+
 /* drop down for age */
 input[type=number] {
   display: block;
@@ -46,16 +47,19 @@ input[type=number] {
   display: block;
 }
 
+
 /* radio */
 input[type=radio] {
   display: inline-block;
 }
-
-
-
 
 #gender {
   margin-bottom: 0%;
   text-align: left;
   font-size: 16px;
 }
+
+
+
+/* Check box - agree to terms of service */
+
