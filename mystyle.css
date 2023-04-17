@@ -62,7 +62,15 @@ input[type=radio] {
 
 
 /* Check box - agree to terms of service */
-input[type=checkbox] {
+/*input[type=checkbox] {
   display: block;
+}*/
+
+.agreeyes {
+  display: inline-block;
+}
+
+.agreeno {
+  display: inline-block;
 }
 
