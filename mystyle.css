@@ -31,6 +31,7 @@ p {
 
 input[type=text] {
   display: block;
+  border-radius: 5px;
 }
 
 input[type=email] {
