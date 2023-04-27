@@ -30,7 +30,7 @@ p {
   font-size: 24px;
 }
 
-/*Name Label */
+/*Name Field */
 #name-label {
   margin-left: 100px;
 }
@@ -44,9 +44,17 @@ input[type=text] {
   margin-right: auto;
 }
 
+/* Email Field */
+#email-label {
+ margin-left: 100px;
+}
+
 input[type=email] {
   display: block;
   box-sizing: border-box;
+  width: 1000px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 
