@@ -30,10 +30,18 @@ p {
   font-size: 24px;
 }
 
+/*Name Label */
+#name-label {
+  margin-left: 100px;
+}
+
 input[type=text] {
   display: block;
   border-radius: 5px;
   box-sizing: border-box;
+  width: 1000px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 input[type=email] {
