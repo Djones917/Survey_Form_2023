@@ -61,6 +61,7 @@ input[type=email] {
 /* drop down for age */
 input[type=number] {
   display: block;
+  margin-left: 100px;
 }
 
 #dropdown {
