@@ -59,14 +59,17 @@ input[type=email] {
 
 
 /* drop down for age */
+
+#number-label {
+  margin-left: 100px;
+}
+
 input[type=number] {
   display: block;
   margin-left: 100px;
 }
 
-#dropdown {
-  display: block;
-}
+
 
 
 /* radio */
