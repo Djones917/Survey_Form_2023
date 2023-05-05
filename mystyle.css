@@ -69,6 +69,10 @@ input[type=number] {
 }
 
 /* may we contact you */
+#contact {
+  margin-left: 100px;
+}
+
 #dropdown {
   display: block;
   margin-left: 100px;
