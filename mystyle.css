@@ -82,6 +82,10 @@ input[type=number] {
 
 
 /* Gender radio */
+#identity {
+  margin-left: 100px;
+}
+
 input[type=radio] {
   display: inline-block;
 }
