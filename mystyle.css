@@ -104,12 +104,16 @@ input[type=radio] {
   display: block;
 }*/
 
-#yes {
+#agreeyes {
   margin-left: 100px;
 }
 
-label.agreeyes {
+.agreeyes {
   display: inline-block;
+}
+
+#agreeno {
+  margin-left: 100px;
 }
 
 .agreeno {
