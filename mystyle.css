@@ -104,7 +104,11 @@ input[type=radio] {
   display: block;
 }*/
 
-.agreeyes {
+#yes {
+  margin-left: 100px;
+}
+
+label.agreeyes {
   display: inline-block;
 }
 
