@@ -56,7 +56,6 @@ input[type=email] {
   margin-right: auto;
 }
 
-
 /* drop down for age */
 #number-label {
   margin-left: 100px;
@@ -77,9 +76,6 @@ input[type=number] {
   margin-left: 100px;
 }
 
-
-
-
 /* Gender radio */
 #identity {
   margin-left: 100px;
@@ -96,13 +92,7 @@ input[type=radio] {
   margin-left: 100px;
 }
 
-
-
 /* Check box - agree to terms of service */
-/*input[type=checkbox] {
-  display: block;
-}*/
-
 #agreeyes {
   margin-left: 100px;
 }
