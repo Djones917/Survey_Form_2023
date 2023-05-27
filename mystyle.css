@@ -122,5 +122,44 @@ input[type=radio] {
   p {
     font-size: 12px;
   }
+  /*Name Field */
+#name-label {
+  margin-left: 2px;
+}
+input[type=text] {
+  display: block;
+  border-radius: 5px;
+  box-sizing: border-box;
+  width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+}
+/* Email Field */
+#email-label {
+  margin-left: 2px;
+ } 
+ input[type=email] {
+   display: block;
+   box-sizing: border-box;
+   width: 500px;
+   margin-left: auto;
+   margin-right: auto;
+ }
+ /* drop down for age */
+#number-label {
+  margin-left: 2px;
+}
+input[type=number] {
+  display: block;
+  margin-left: 2px;
+}
+/* may we contact you */
+#contact {
+  margin-left: 2px;
+}
+#dropdown {
+  display: block;
+  margin-left: 2px;
+}
   
 }
