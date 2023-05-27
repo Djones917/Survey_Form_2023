@@ -109,6 +109,10 @@ input[type=radio] {
   display: inline-block;
 }
 
+
+
+
+
 /* Media Query */
 @media screen and (max-width: 600px) {
   main {
@@ -173,5 +177,18 @@ input[type=radio] {
   text-align: left;
   font-size: 16px;
   margin-left: 2px;
+}
+/* Check box - agree to terms of service */
+#agreeyes {
+  margin-left: 2px;
+}
+.agreeyes {
+  display: inline-block;
+}
+#agreeno {
+  margin-left: 25px;
+}
+.agreeno {
+  display: inline-block;
 }
 }
