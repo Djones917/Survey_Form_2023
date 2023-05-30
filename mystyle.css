@@ -17,6 +17,7 @@ main {
   background-color: aliceblue;
   border: 2px solid black;
   border-radius: 10px;
+  box-shadow: 5px 5px 25px black;
 }
 
 h1 {
