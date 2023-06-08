@@ -32,7 +32,7 @@ p {
 }
 
 /*Name Field */
-.name-label {
+#name-label {
   margin-left: 100px;
 }
 
@@ -46,7 +46,7 @@ input[type=text] {
 }
 
 /* Email Field */
-.email-label {
+#email-label {
  margin-left: 100px;
 }
 
@@ -59,7 +59,7 @@ input[type=email] {
 }
 
 /* drop down for age */
-.number-label {
+#number-label {
   margin-left: 100px;
 }
 
@@ -69,17 +69,17 @@ input[type=number] {
 }
 
 /* may we contact you */
-.contact {
+#contact {
   margin-left: 100px;
 }
 
-.dropdown {
+#dropdown {
   display: block;
   margin-left: 100px;
 }
 
 /* Gender radio */
-.identity {
+#identity {
   margin-left: 100px;
 }
 
@@ -87,7 +87,7 @@ input[type=radio] {
   display: inline-block;
 }
 
-.gender {
+#gender {
   margin-bottom: 0%;
   text-align: left;
   font-size: 16px;
@@ -111,6 +111,10 @@ input[type=radio] {
   display: inline-block;
 }
 
+/* Text Area */
+.textarea {
+  display: block;
+}
 
 
 

@@ -12,23 +12,23 @@
       <h1 class="title" id="title">My Survey Form</h1>
       <p id="description">The cooliest form on the web</p>
       <form  class="survey-form" id="survey-form">
-        <label class="name-label">Name:</label>
+        <label id="name-label">Name:</label>
         <input type="text" id="name" placeholder="name" required></input>
 
-        <label class="email-label">Email:</label>
+        <label id="email-label">Email:</label>
         <input id="email" placeholder="email" type="email" required></input>
 
-        <label class="number-label">Your age:</label>
+        <label id="number-label">Your age:</label>
         <input id="number" placeholder="number" type="number" min="1970" max="2023"></input> 
         
-        <label class="contact" for="contact-info">May we contact you?</label>        
-        <select class="dropdown" name="contact-info" form="contact-info">
+        <label id="contact" for="contact-info">May we contact you?</label>        
+        <select id="dropdown" name="contact-info" form="contact-info">
           <option value="yes">Yes</option>
           <option value="no">no</option>
         </select>
         
-        <p class="gender">Gender:</p>
-        <label class="identity" for="gender">Male</label>
+        <p id="gender">Gender:</p>
+        <label id="identity" for="gender">Male</label>
         <input type="radio" name="sex" value="Male"></input>
         <label id="identity" for="gender">Female</label>
         <input type="radio" name="sex" value="Female"></input><br>
