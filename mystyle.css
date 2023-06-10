@@ -112,8 +112,14 @@ input[type=radio] {
 }
 
 /* Text Area */
+#feedback {
+  display: block;
+  margin-left: 100px;  
+}
+
 .textarea {
   display: block;
+  margin-left: 100px;
 }
 
 
