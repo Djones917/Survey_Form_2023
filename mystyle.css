@@ -122,6 +122,12 @@ input[type=radio] {
   margin-left: 100px;
 }
 
+/* Submit Button */
+#submit {
+  width: 400px;
+  height: 50px;
+}
+
 
 
 
