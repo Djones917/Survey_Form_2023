@@ -120,10 +120,13 @@ input[type=radio] {
 .textarea {
   display: block;
   margin-left: 100px;
+  width: 1000px;
 }
 
 /* Submit Button */
 #submit {
+  margin-top: 20px;
+  margin-left: 100px;
   width: 400px;
   height: 50px;
 }
