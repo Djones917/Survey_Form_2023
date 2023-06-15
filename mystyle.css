@@ -114,12 +114,12 @@ input[type=radio] {
 /* Text Area */
 #feedback {
   display: block;
-  margin-left: 8%;  
+  margin-left: 100px;  
 }
 
 .textarea {
   display: block;
-  margin-left: 8%;
+  margin-left: 100px;
 }
 
 /* Submit Button */
@@ -130,97 +130,3 @@ input[type=radio] {
   height: 50px;
 }
 
-
-
-
-
-
-/* Media Query */
-@media screen and (max-width: 600px) {
-  main {
-    margin-left: auto;
-    margin-right: auto;
-    width: 500px;
-  }
-  h1 {
-      font-size: 24px;
-  }
-  p {
-    font-size: 12px;
-  }
-  /*Name Field */
-#name-label {
-  margin-left: 2px;
-}
-input[type=text] {
-  display: block;
-  border-radius: 5px;
-  box-sizing: border-box;
-  width: 500px;
-  margin-left: auto;
-  margin-right: auto;
-}
-/* Email Field */
-#email-label {
-  margin-left: 2px;
- } 
- input[type=email] {
-   display: block;
-   box-sizing: border-box;
-   width: 500px;
-   margin-left: auto;
-   margin-right: auto;
- }
- /* drop down for age */
-#number-label {
-  margin-left: 2px;
-}
-input[type=number] {
-  display: block;
-  margin-left: 2px;
-}
-/* may we contact you */
-#contact {
-  margin-left: 2px;
-}
-#dropdown {
-  display: block;
-  margin-left: 2px;
-}
-/* Gender radio */
-#identity {
-  margin-left: 2px;
-}
-input[type=radio] {
-  display: inline-block;
-}
-#gender {
-  margin-bottom: 0%;
-  text-align: left;
-  font-size: 16px;
-  margin-left: 2px;
-}
-/* Check box - agree to terms of service */
-#agreeyes {
-  margin-left: 2px;
-}
-.agreeyes {
-  display: inline-block;
-}
-#agreeno {
-  margin-left: 25px;
-}
-.agreeno {
-  display: inline-block;
-}
-/* Text Area */
-#feedback {
-  display: block;
-  margin-left: 0%;  
-}
-
-.textarea {
-  display: block;
-  margin-left: 0%;
-}
-}
