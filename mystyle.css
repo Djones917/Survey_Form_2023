@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Alkatra&display=swap');
 
 :root {
-    --primary-color: #2E4052;
+    --primary-color: #0bb1ed;
 }
 
 body {
@@ -120,15 +120,16 @@ input[type=radio] {
 .textarea {
   display: block;
   margin-left: 10%;
+  width: 80%;
 }
 
 /* Submit Button */
 #submit {
   margin-top: 20px;
   margin-left: 10%;
-  width: 400px;
+  width: 80%;
   height: 50px;
   border-radius: 10px;
-  background-color: #BDD9BF;
+  background-color: #80F9C0;
 }
 
