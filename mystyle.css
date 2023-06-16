@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Alkatra&display=swap');
 
 :root {
-    --primary-color: #0bb1ed;
+    --primary-color: #2E4052;
 }
 
 body {
@@ -14,7 +14,7 @@ main {
   margin-left: auto;
   margin-right: auto;
   padding: 0 20px 20px 20px;  
-  width: 1200px;
+  width: 60%;
   background-color: aliceblue;
   border: 2px solid black;
   border-radius: 10px;
@@ -33,54 +33,54 @@ p {
 
 /*Name Field */
 #name-label {
-  margin-left: 100px;
+  margin-left: 10%;
 }
 
 input[type=text] {
   display: block;
   border-radius: 5px;
   box-sizing: border-box;
-  width: 1000px;
+  width: 80%;
   margin-left: auto;
   margin-right: auto;
 }
 
 /* Email Field */
 #email-label {
- margin-left: 100px;
+ margin-left: 10%;
 }
 
 input[type=email] {
   display: block;
   box-sizing: border-box;
-  width: 1000px;
+  width: 80%;
   margin-left: auto;
   margin-right: auto;
 }
 
 /* drop down for age */
 #number-label {
-  margin-left: 100px;
+  margin-left: 10%;
 }
 
 input[type=number] {
   display: block;
-  margin-left: 100px;
+  margin-left: 10%;
 }
 
 /* may we contact you */
 #contact {
-  margin-left: 100px;
+  margin-left: 10%;
 }
 
 #dropdown {
   display: block;
-  margin-left: 100px;
+  margin-left: 10%;
 }
 
 /* Gender radio */
 #identity {
-  margin-left: 100px;
+  margin-left: 10%;
 }
 
 input[type=radio] {
@@ -91,12 +91,12 @@ input[type=radio] {
   margin-bottom: 0%;
   text-align: left;
   font-size: 16px;
-  margin-left: 100px;
+  margin-left: 10%;
 }
 
 /* Check box - agree to terms of service */
 #agreeyes {
-  margin-left: 100px;
+  margin-left: 10%;
 }
 
 .agreeyes {
@@ -104,7 +104,7 @@ input[type=radio] {
 }
 
 #agreeno {
-  margin-left: 25px;
+  margin-left: 5%;
 }
 
 .agreeno {
@@ -114,19 +114,21 @@ input[type=radio] {
 /* Text Area */
 #feedback {
   display: block;
-  margin-left: 100px;  
+  margin-left: 10%;  
 }
 
 .textarea {
   display: block;
-  margin-left: 100px;
+  margin-left: 10%;
 }
 
 /* Submit Button */
 #submit {
   margin-top: 20px;
-  margin-left: 100px;
+  margin-left: 10%;
   width: 400px;
   height: 50px;
+  border-radius: 10px;
+  background-color: #BDD9BF;
 }
 
