@@ -36,8 +36,7 @@ p {
 
 /*Name Field */
 #name-label {
-  margin-left: 10%;
-  font-size: 1vw;
+  margin-left: 10%;  
 }
 
 input[type=text] {
@@ -140,4 +139,3 @@ input[type=radio] {
   border-radius: 10px;
   background-color: var(--button-color);
 }
-
