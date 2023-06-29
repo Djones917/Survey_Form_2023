@@ -37,7 +37,6 @@ p {
 /*Name Field */
 #name-label {
   margin-left: 10%;  
-  font-size: 1vw;
 }
 
 input[type=text] {
@@ -139,4 +138,16 @@ input[type=radio] {
   height: 50px;
   border-radius: 10px;
   background-color: var(--button-color);
+}
+
+
+
+/* Media Query */
+@media screen and (max-width: 600px) {
+  #agreeno {
+    margin-left: 10%;
+  }  
+  .agreeno {
+    display: inline-block;
+  }
 }
