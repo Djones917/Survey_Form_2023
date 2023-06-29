@@ -37,6 +37,7 @@ p {
 /*Name Field */
 #name-label {
   margin-left: 10%;  
+  font-size: 1vw;
 }
 
 input[type=text] {
