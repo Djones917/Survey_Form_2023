@@ -134,16 +134,18 @@ input[type=radio] {
 #submit {
   margin-top: 20px;
   margin-left: 10%;
+  margin-bottom: 20px;
   width: 80%;
   height: 50px;
   border-radius: 10px;
   background-color: var(--button-color);
+  box-shadow: 5px 5px 25px black;
 }
 
 
 
 /* Media Query */
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 800px) {
   #agreeno {
     margin-left: 10%;
   }  
