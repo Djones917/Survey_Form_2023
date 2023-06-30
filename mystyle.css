@@ -139,7 +139,7 @@ input[type=radio] {
   height: 50px;
   border-radius: 10px;
   background-color: var(--button-color);
-  box-shadow: 5px 5px 25px black;
+  box-shadow: 5px 5px 5px black;
 }
 
 
