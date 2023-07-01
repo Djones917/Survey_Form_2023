@@ -3,6 +3,7 @@
 :root {
     --primary-color: #0bb1ed;
     --button-color: #80F9C0;
+    --button-hover: #07f586;
 }
 
 body {
@@ -140,6 +141,11 @@ input[type=radio] {
   border-radius: 10px;
   background-color: var(--button-color);
   box-shadow: 5px 5px 5px black;
+}
+
+#submit:hover {
+  background-color: var(--button-hover);
+  box-shadow: 10px 10px 10px black;
 }
 
 
