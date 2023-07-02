@@ -133,6 +133,8 @@ input[type=radio] {
 
 /* Submit Button */
 #submit {
+  color: white;
+  font-size: 2vw;  
   margin-top: 20px;
   margin-left: 10%;
   margin-bottom: 20px;
