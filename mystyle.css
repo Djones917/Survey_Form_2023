@@ -1,9 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Alkatra&display=swap');
 
 :root {
-    --primary-color: #0bb1ed;
-    --button-color: #80F9C0;
-    --button-hover: #07f586;
+    --primary-color: #07a7db;
+    --button-color: #db073d;
+    --button-hover: #07db3b;
 }
 
 body {
