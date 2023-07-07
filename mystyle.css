@@ -37,8 +37,7 @@ p {
 
 /*Name Field */
 #name-label {
-  margin-left: 10%; 
-  font-size: 2vw;
+  margin-left: 10%;  
 }
 
 input[type=text] {
@@ -59,6 +58,7 @@ input[type=text] {
 
 input[type=email] {
   display: block;
+  border-radius: 5px;
   box-sizing: border-box;
   width: 80%;
   height: 40px;
