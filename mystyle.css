@@ -90,6 +90,12 @@ input[type=number] {
   margin-left: 10%;
 }
 
+/* phone number */
+#phone {
+  display: block;
+  margin-left: 10%;
+}
+
 /* Gender radio */
 #identity {
   margin-left: 10%;
