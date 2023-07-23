@@ -56,10 +56,6 @@ input[type=text] {
 }
 
 /* Email Field */
-#email-label {
- margin-left: 10%;
-}
-
 input[type=email] {
   display: block;
   border-radius: 5px;
