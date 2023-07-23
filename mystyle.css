@@ -38,6 +38,11 @@ p {
   margin: 0;
 }
 
+/* Label */
+#label {
+  margin-left: 10%;
+}
+
 /*Name Field */
 input[type=text] {
   display: block;
@@ -51,6 +56,10 @@ input[type=text] {
 }
 
 /* Email Field */
+#email-label {
+ margin-left: 10%;
+}
+
 input[type=email] {
   display: block;
   border-radius: 5px;
@@ -63,12 +72,20 @@ input[type=email] {
 }
 
 /* drop down for age */
+#number-label {
+  margin-left: 10%;
+}
+
 input[type=number] {
   display: block;
   margin-left: 10%;
 }
 
 /* may we contact you */
+#contact {
+  margin-left: 10%;
+}
+
 #dropdown {
   display: block;
   margin-left: 10%;
@@ -81,6 +98,10 @@ input[type=number] {
 }
 
 /* Gender radio */
+#identity {
+  margin-left: 10%;
+}
+
 input[type=radio] {
   display: inline-block;
 }
@@ -93,6 +114,10 @@ input[type=radio] {
 }
 
 /* Check box - agree to terms of service */
+#agreeyes {
+  margin-left: 10%;
+}
+
 .agreeyes {
   display: inline-block;
 }
