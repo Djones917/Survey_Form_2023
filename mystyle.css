@@ -7,8 +7,9 @@
 }
 
 body {
-    background-color: var(--primary-color);    
+    /*background-color: var(--primary-color);*/    
     /*background-image: url(./img/pattern_halloween-1_1_3_0-0_30_2__f9c64f_f94144_f3722c.png);*/
+    background-image: url(./img/willian-justen-de-vasconcellos-T_Qe4QlMIvQ-unsplash\ \(1\).jpg);
     font-family: 'Alkatra', cursive, sans-serif;
     font-size: 18px; /* testing font size for form fields added 7-07-2023 */
     
