@@ -4,7 +4,7 @@ const message = document.getElementById('messageSent');
 const p = document.createElement('p');
 const textNode = document.createTextNode('Message sent!');
 p.appendChild(textNode);
-Element.appendChild(message, textNode);
+message.appendChild(textNode);
       /*const para = document.createElement("p");
       const node = document.createTextNode("The end.");
       para.appendChild(node);
