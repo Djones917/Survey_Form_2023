@@ -138,6 +138,10 @@ input[type=radio] {
   background-color: #07db3b;
   border-radius: 5px;
   width: 40%;
+  margin-top: 10px;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
 }
 /* Submit Button */
 #submit {
