@@ -131,6 +131,14 @@ input[type=radio] {
   width: 80%;
 }
 
+/* Message Alert */
+#messageSent {
+  margin-left: 10%;
+  display: block;
+  background-color: #07db3b;
+  border-radius: 5px;
+  width: 40%;
+}
 /* Submit Button */
 #submit {
   color: white;
